@@ -3,6 +3,6 @@
 * Bonny Mogollon
 * Bryan Pulla 
 * Czerinton Kunaraja
+* John Stulich
 * Napoleon Santan
 * Rebecca Tobias
-* Stulich John
