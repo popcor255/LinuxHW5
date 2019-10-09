@@ -5,3 +5,4 @@
 * Czerinton Kunaraja
 * Napoleon Santan
 * Rebecca Tobias
+* Stulich John
