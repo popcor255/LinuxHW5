@@ -1,4 +1,5 @@
 # LinuxHW5
+* Daniel Tapia
 * Ambar Ruiz
 * Bonny Mogollon
 * Bryan Pulla 
