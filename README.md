@@ -6,3 +6,4 @@
 * John Stulich
 * Napoleon Santana
 * Rebecca Tobias
+* Alexander Vega
