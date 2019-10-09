@@ -1,6 +1,7 @@
 # LinuxHW5
-* Bonny Mogollon
-* Czerinton Kunaraja
 * Ambar Ruiz
+* Bonny Mogollon
+* Bryan Pulla 
+* Czerinton Kunaraja
 * Napoleon Santan
 * Rebecca Tobias
