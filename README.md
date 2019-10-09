@@ -4,5 +4,5 @@
 * Bryan Pulla 
 * Czerinton Kunaraja
 * John Stulich
-* Napoleon Santan
+* Napoleon Santana
 * Rebecca Tobias
